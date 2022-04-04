@@ -3,12 +3,11 @@
 # Copyright 2015- (c) Flying Circus Internet Operations GmbH
 # See also LICENSE.txt
 
-from setuptools import setup, find_packages
-
+from setuptools import find_packages, setup
 
 setup(
     name='pycountry',
-    version='18.12.8',
+    version='18.12.8+custom',
     author='Christian Theune',
     author_email='ct@flyingcircus.io',
     description='ISO country, subdivision, language, currency and script '
