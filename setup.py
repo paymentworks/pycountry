@@ -9,7 +9,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="pycountry",
-    version="22.3.6.dev0",
+    version="22.1.13",
     author="Christian Theune",
     author_email="ct@flyingcircus.io",
     description="ISO country, subdivision, language, currency and script "
@@ -19,7 +19,6 @@ setup(
         + "\n"
         + open("HISTORY.txt", encoding="utf-8").read()
     ),
-    url="https://github.com/flyingcircusio/pycountry",
     license="LGPL 2.1",
     keywords="country subdivision language currency iso 3166 639 4217 "
     "15924 3166-2",
